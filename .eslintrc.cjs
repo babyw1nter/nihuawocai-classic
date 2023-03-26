@@ -30,6 +30,14 @@ module.exports = {
   rules: {
     'prettier/prettier': 'off',
     'no-unused-vars': 'off',
-    '@typescript-eslint/no-empty-function': 'warn'
+    '@typescript-eslint/no-unused-vars': 'off',
+    '@typescript-eslint/no-empty-function': 'warn',
+    'vue/first-attribute-linebreak': 'off',
+    'vue/multi-word-component-names': 'off',
+    'vue/no-unused-components': 'warn',
+    'vue/attributes-order': 'off',
+    'vue/attribute-hyphenation': 'off',
+    'vue/no-v-html': 'off',
+    'vue/no-unused-vars': 'off'
   }
 }
