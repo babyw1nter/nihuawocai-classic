@@ -27,7 +27,7 @@
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-vue": "^9.10.0",
     "less": "^4.1.3",
-    "prettier": "^2.8.7npm",
+    "prettier": "^2.8.7",
     "typescript": "^5.0.2",
     "unplugin-auto-import": "^0.15.2",
     "unplugin-vue-components": "^0.24.1",
